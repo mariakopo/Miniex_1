@@ -1,0 +1,38 @@
+http://rhizome.org/editorial/2017/jan/12/a-net-artist-named-google-1/
+
+A Net Artist Named Google
+ALEXEI SHULGIN AND JOSEPHINE BOSMA IN CONVERSATION
+Form Art: http://archive.rhizome.org/anthology/form-art.html
+
+Answer the following questions: 
+
+	- Which work have you chosen? 
+	We have chosen the "Form Art" from 1997 by Alexei Shulgin work.
+	
+	- What is it? 
+	"Form Art" is one of Shulgin's most visual works from this period. 
+	Form Art made a lasting impression because of its simplicity in shape and color (all grey), making it emblematic for early web aesthetics, and because of Shulgin's success in turning Form Art into another communal net.art open work.
+	What makes Form Art so appealing is how its near-brutal modernist aesthetic relates to the visual overload of the web. Form Art accidentally managed to build a bridge between the avant-gardes of both the beginning and the end of the twentieth century. 
+
+	- How does the work operate and what kind of software/programming language was used? 
+	Alexei Shulgin's Form Art seems an odd duck in his oeuvre. It is at first glance a purely formalist experiment with web “forms,” the buttons and boxes that were used as click-and-select interface objects in web pages.
+	The kind of software from RSA Data Security Inc. The programming language he uses is Javascript - A browser named Netscape 03
+	I think the artist also uses C3. QuickTime is also used.
+
+
+	- Can you try to look at the source code and decode some of the logics? 
+	
+	
+	- Who is the artist and what is her/his background?
+	Alexei Shulgin was one of the most popular and influential members of the notorious net.art “movement” of the nineties.  Was a member of a fluid group of artists who shared antiestablishment politics and an interest in creating new social and artistic contexts through the internet. 
+	Shulgin was part of this group from its beginnings in the mid-1990s when German artist and activist Pit Schultz organized a group show in Berlin in 1995 entitled net.art (including artists such as Vuk Cosic and Heath Bunting).
+	Known for his sense of humor and his clever art interventions, Shulgin acted as a net.art intermediary
+	
+	
+	- What is the concept? 
+	He had those buttons, test areas, checkboxes in my mind for a while. The initial idea was to use them not as they were supposed to be used—as input interfaces—but to focus on their shapes, their position on a page, and to try to animate them. 
+	Bringing them in focus was a declaration of the fact that a computer interface is not a “transparent” invisible layer to be taken for granted, but something that defines the way we are forced to work and even think. And that it is made by the technology developers.
+	
+	
+	- What do you like about it?
+	A first it was very confusing because I did not know how to use it. It is an old computer version which also can seem confusing. But what I like about the Form Art is that the artist Alexei Shulgin had focused on the shape and position of the buttions and test areas and checkboxes. He uses the shaping and position of the areas etc. to clearify the fact that a computer interface is not a "transparent" invisible layer to be taken for grantes, but something that defines the way we are focued to work and think. 
